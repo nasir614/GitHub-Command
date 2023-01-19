@@ -1,0 +1,9 @@
+C:\Users\nasir.hassan\Documents\GitHub\nasir614\razorwebapp\MovieApp\obj\Debug\net6.0\MovieApp.csproj.AssemblyReference.cache
+C:\Users\nasir.hassan\Documents\GitHub\nasir614\razorwebapp\MovieApp\obj\Debug\net6.0\MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasir.hassan\Documents\GitHub\nasir614\razorwebapp\MovieApp\obj\Debug\net6.0\MovieApp.AssemblyInfoInputs.cache
+C:\Users\nasir.hassan\Documents\GitHub\nasir614\razorwebapp\MovieApp\obj\Debug\net6.0\MovieApp.AssemblyInfo.cs
+C:\Users\nasir.hassan\Documents\GitHub\nasir614\razorwebapp\MovieApp\obj\Debug\net6.0\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\nasir.hassan\Documents\GitHub\nasir614\razorwebapp\MovieApp\obj\Debug\net6.0\MovieApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nasir.hassan\Documents\GitHub\nasir614\razorwebapp\MovieApp\obj\Debug\net6.0\MovieApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nasir.hassan\Documents\GitHub\nasir614\razorwebapp\MovieApp\obj\Debug\net6.0\MovieApp.RazorAssemblyInfo.cache
+C:\Users\nasir.hassan\Documents\GitHub\nasir614\razorwebapp\MovieApp\obj\Debug\net6.0\MovieApp.RazorAssemblyInfo.cs
